@@ -1,11 +1,11 @@
  My Bash Scripts for Learning and Exploring Shell Scripting
 
  1. Set permissions to the files:
-    `bsh
+    ```bsh
       chmod +x basics/hello.sh
-    `
+    ```
 
 2. Run the script
-     `bsh
+     ```bsh
        ./basics/hello.sh
-   `
+   ```
