@@ -1,0 +1,6 @@
+Bash is a command-line interpreter or Unix Shell and it is widely used in GNU/Linux Operating System.
+It is written by Brian Jhan Fox.
+It is used as a default login shell for most Linux distributions.
+Scripting is used to automate the execution of the tasks so that humans do not need to perform them individually.
+Bash scripting is a great way to automate different types of tasks in a system.
+Developers can avoid doing repetitive tasks using bash scripting.
