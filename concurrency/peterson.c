@@ -1,3 +1,7 @@
+//this program demostrates the working of Peterson solution which is a software based solution to the critical section problem involving two processes.
+
+
+
 #include<stdio.h>
 #include<unistd.h>
 #include<stdbool.h>
